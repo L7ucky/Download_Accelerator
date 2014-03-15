@@ -1,0 +1,205 @@
+bytes 0-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 1 1003157 0.022752
+bytes 0-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 1 1003157 0.101848
+bytes 0-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 1 1003157 0.108544
+bytes 0-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 1 1003157 0.129676
+bytes 0-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 1 1003157 0.035095
+bytes 0-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 1 1003157 0.124421
+bytes 0-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 1 1003157 0.060784
+bytes 0-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 1 1003157 0.327763
+bytes 0-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 1 1003157 0.119233
+bytes 0-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 1 1003157 0.108976
+bytes 501581-1003156/1003157
+bytes 0-501579/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 2 1003157 0.041595
+bytes 0-501579/1003157
+bytes 501581-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 2 1003157 0.043141
+bytes 501581-1003156/1003157
+bytes 0-501579/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 2 1003157 0.099556
+bytes 501581-1003156/1003157
+bytes 0-501579/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 2 1003157 0.068874
+bytes 501581-1003156/1003157
+bytes 0-501579/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 2 1003157 0.156239
+bytes 0-501579/1003157
+bytes 501581-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 2 1003157 0.170604
+bytes 501581-1003156/1003157
+bytes 0-501579/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 2 1003157 0.143683
+bytes 0-501579/1003157
+bytes 501581-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 2 1003157 0.07879
+bytes 0-501579/1003157
+bytes 501581-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 2 1003157 0.084754
+bytes 0-501579/1003157
+bytes 501581-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 2 1003157 0.027666
+bytes 334387-668772/1003157
+bytes 668774-1003156/1003157
+ bytes 0-334386/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 3 1003157 0.058101
+bytes 0-334386/1003157
+bytes 334387-668772/1003157
+bytes 668774-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 3 1003157 0.134646
+bytes 0-334386/1003157
+bytes 334387-668772/1003157
+bytes 668774-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 3 1003157 0.065777
+bytes 668774-1003156/1003157
+bytes 0-334386/1003157
+bytes 334387-668772/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 3 1003157 0.031741
+bytes 0-334386/1003157
+bytes 668774-1003156/1003157
+bytes 334387-668772/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 3 1003157 0.067534
+bytes 0-334386/1003157
+bytes 334387-668772/1003157
+bytes 668774-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 3 1003157 0.023079
+bytes 668774-1003156/1003157
+bytes 334387-668772/1003157
+bytes 0-334386/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 3 1003157 0.050912
+bytes 334387-668772/1003157
+bytes 0-334386/1003157
+bytes 668774-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 3 1003157 0.07209
+bytes 0-334386/1003157
+bytes 334387-668772/1003157
+bytes 668774-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 3 1003157 0.077946
+bytes 0-334386/1003157
+bytes 668774-1003156/1003157
+bytes 334387-668772/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 3 1003157 0.111746
+bytes 200633-401264/1003157
+bytes 401265-601896/1003157
+bytes 802530-1003156/1003157
+bytes 601897-802528/1003157
+bytes 0-200632/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 5 1003157 0.070198
+bytes 0-200632/1003157
+bytes 200633-401264/1003157
+bytes 601897-802528/1003157
+bytes 401265-601896/1003157
+bytes 802530-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 5 1003157 0.075433
+bytes 200633-401264/1003157
+bytes 601897-802528/1003157
+bytes 401265-601896/1003157
+bytes 802530-1003156/1003157
+bytes 0-200632/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 5 1003157 0.080876
+bytes 0-200632/1003157
+bytes 200633-401264/1003157
+bytes 802530-1003156/1003157
+bytes 401265-601896/1003157
+bytes 601897-802528/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 5 1003157 0.086662
+bytes 401265-601896/1003157
+bytes 0-200632/1003157
+bytes 601897-802528/1003157
+bytes 802530-1003156/1003157
+bytes 200633-401264/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 5 1003157 0.069002
+bytes 0-200632/1003157
+bytes 200633-401264/1003157
+bytes 401265-601896/1003157
+bytes 802530-1003156/1003157
+bytes 601897-802528/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 5 1003157 0.062171
+bytes 200633-401264/1003157
+bytes 802530-1003156/1003157
+bytes 0-200632/1003157
+bytes 401265-601896/1003157
+bytes 601897-802528/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 5 1003157 0.071169
+bytes 0-200632/1003157
+bytes 601897-802528/1003157
+bytes 200633-401264/1003157
+bytes 401265-601896/1003157
+ bytes 802530-1003156/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 5 1003157 0.032286
+bytes 401265-601896/1003157
+bytes 802530-1003156/1003157
+bytes 0-200632/1003157
+bytes 601897-802528/1003157
+bytes 200633-401264/1003157
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 5 1003157 0.061324
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 5 1003157 0.083134
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 10 1003157 0.056473
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 10 1003157 0.039645
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 10 1003157 0.048572
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 10 1003157 0.038654
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 10 1003157 0.074475
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 10 1003157 0.027925
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 10 1003157 0.063887
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 10 1003157 0.066345
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 10 1003157 0.067731
+http://www2.census.gov/geo/tiger/TIGER2013/TRACT/tl_2013_10_tract.zip 10 1003157 0.075323
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 1 1180010 4.476691
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 1 1180010 0.165223
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 1 1180010 0.100765
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 1 1180010 0.044248
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 1 1180010 0.042021
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 1 1180010 0.036834
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 1 1180010 0.12926
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 1 1180010 0.142474
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 1 1180010 0.043418
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 1 1180010 0.203051
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 2 1180010 0.136221
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 2 1180010 0.083495
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 2 1180010 0.051544
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 2 1180010 0.069048
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 2 1180010 0.199384
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 2 1180010 0.199777
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 2 1180010 0.158707
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 2 1180010 0.093295
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 2 1180010 0.110073
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 2 1180010 0.067965
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 3 1180010 0.128437
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 3 1180010 0.188892
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 3 1180010 0.077
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 3 1180010 0.056605
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 3 1180010 0.118965
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 3 1180010 0.143403
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 3 1180010 0.184312
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 3 1180010 0.098183
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 3 1180010 0.143156
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 3 1180010 0.089878
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 5 1180010 0.107723
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 5 1180010 0.082072
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 5 1180010 0.114677
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 5 1180010 0.12097
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 5 1180010 0.07893
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 5 1180010 0.051676
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 5 1180010 0.070747
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 5 1180010 0.18779
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 5 1180010 0.031126
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 5 1180010 0.0742
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 10 1180010 0.107025
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 10 1180010 0.091488
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 10 1180010 0.092648
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 10 1180010 0.135983
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 10 1180010 0.110961
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 10 1180010 0.121514
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 10 1180010 0.068955
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 10 1180010 0.048808
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 10 1180010 0.065054
+http://corbt.com/files/design-philosophy-sigcomm-88.pdf 10 1180010 0.079999

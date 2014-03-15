@@ -1,0 +1,4 @@
+-10 late 
+-50 downloads are incorrect when using multiple threads (I used 'diff' to compare the file downloaded by your script with the same file I downloaded using Chrome) 
+-10 no graphs in report 
+-2 report is missing discussion of each graph
